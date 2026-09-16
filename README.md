@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Sanjana Bolloju!
 
-<!--
-**sanjana-bolloju/sanjana-bolloju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🎓 BCA Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 👩‍💻 About Me
+
+🎓 BCA student at Vaagdevi Degree and PG College
+
+💻 Aspiring Software Developer
+
+☕ Currently learning Java and Data Structures & Algorithms
+
+🌐 Interested in Web Technologies and Software Development
+
+🗄️ Learning SQL and database concepts
+
+🤖 Exploring AI tools and AI-assisted development
+
+🚀 Building projects and improving my problem-solving skills
+
+✨ Always learning, building, and improving one project at a time.
+
+
+🌐 Socials
+
+https://www.linkedin.com/in/sanjana-bolloju-08a9533b5
+
+
+
+💻 Tech &logo=javascript)
+
+🔵 C 🔵 C++ 🟠 Java
+🟠 HTML5 🔵 CSS 🟡 JavaScript
+🔵 SQL 🟣 DSA 
+
+
+✨ Thanks for visiting my profile!
