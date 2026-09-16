@@ -24,7 +24,7 @@
 
 🌐 Socials
 
-https://www.linkedin.com/in/sanjana-bolloju-08a9533b5
+🔵https://www.linkedin.com/in/sanjana-bolloju-08a9533b5
 
 
 
