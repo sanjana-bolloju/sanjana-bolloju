@@ -34,5 +34,33 @@ https://www.linkedin.com/in/sanjana-bolloju-08a9533b5
 🟠 HTML5 🔵 CSS 🟡 JavaScript
 🔵 SQL 🟣 DSA 
 
+🌡️ ThermoBreeze
+
+College technical-fest project focused on innovation, teamwork, problem-solving, and presentation skills.
+
+
+🎓 Trainings & Certifications:
+
+🏆 Python Using AI Workshop — Jun 2026
+
+🏆 AI Tools & ChatGPT Workshop — Apr 2026
+
+🏆 Power BI Workshop — Mar 2026
+
+
+🎨 Hobbies:
+
+🎨 Painting
+
+✂️ Crafting and DIY Projects
+
+🎬 Watching Movies in Free Time
+
+
+💬 Developer Quote:
+
+> "The best way to learn is to build."
+
+
 
 ✨ Thanks for visiting my profile!
